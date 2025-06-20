@@ -38,6 +38,15 @@ The Jupyter Notebook includes:
 
 ---
 
+## 🛠️ Requirements
+
+- Python 3.7+
+- PostgreSQL installed locally or remotely
+- pip install pandas sqlalchemy psycopg2
+- Titanic dataset imported into a PostgreSQL Databse named `TitanicDB` and table named `titanic`
+
+---
+
 ## 🧱 Table Schema
 
 The following SQL creates the `titanic` table used in this tutorial:
@@ -60,10 +69,3 @@ CREATE TABLE titanic (
 );
 
 ---
-
-## 🛠️ Requirements
-
-- Python 3.7+
-- PostgreSQL installed locally or remotely
-- pip install pandas sqlalchemy psycopg2
-- Titanic dataset imported into a PostgreSQL Databse named `TitanicDB` and table named `titanic`
