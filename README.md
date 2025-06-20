@@ -42,7 +42,7 @@ The Jupyter Notebook includes:
 
 - Python 3.7+
 - PostgreSQL installed locally or remotely
-- pip install pandas sqlalchemy psycopg2
+- pip install pandas sqlalchemy psycopg2-binary
 - Titanic dataset imported into a PostgreSQL Databse named `TitanicDB` and table named `titanic`
 
 ---
