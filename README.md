@@ -38,14 +38,6 @@ The Jupyter Notebook includes:
 
 ---
 
-## 📂 File Structure
-📦 Titanic-SQL-Tutorial/
-├── Titanic_SQL_Tutorial_Full_50_Queries.ipynb ← 📘 Core tutorial notebook
-├── README.md ← 👋 You are here
-├── titanic.csv ← 📄 Original dataset
-
----
-
 ## 🛠️ Requirements
 
 - Python 3.7+
