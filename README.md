@@ -38,6 +38,29 @@ The Jupyter Notebook includes:
 
 ---
 
+## 🧱 Table Schema
+
+The following SQL creates the `titanic` table used in this tutorial:
+
+```sql
+-- Titanic Table Schema
+CREATE TABLE titanic (
+    PassengerId INTEGER PRIMARY KEY,
+    Survived BOOLEAN,
+    Pclass INTEGER,
+    Name TEXT,
+    Sex TEXT,
+    Age FLOAT,
+    SibSp INTEGER,
+    Parch INTEGER,
+    Ticket TEXT,
+    Fare FLOAT,
+    Cabin TEXT,
+    Embarked TEXT
+);
+
+---
+
 ## 🛠️ Requirements
 
 - Python 3.7+
