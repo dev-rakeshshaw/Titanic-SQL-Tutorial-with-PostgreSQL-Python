@@ -1,4 +1,4 @@
-# 🛳️ Titanic SQL Tutorial: 50 Expert Queries with Python & PostgreSQL
+# 🛳️ Titanic SQL Tutorial: 50 Expert Queries with Python & PostgreSQL.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
